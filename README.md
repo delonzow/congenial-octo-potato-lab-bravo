@@ -39,17 +39,17 @@ RecipeBox helps home chefs browse and organize recipe ideas in one place. The in
 
 ## Project Structure
 
-congenial-octo-potato-lab-bravo/
-├── assets/
-│   ├── scripts/
-│   │   └── app.js
-│   └── styles/
-│       └── styles.css
-├── pages/
-│   ├── admin.html
-│   └── signin.html
-├── index.html
-└── README.md
+congenial-octo-potato-lab-bravo/  
+├── assets/  
+│     ├── scripts/  
+│   │   └── app.js  
+│   └── styles/  
+│       └── styles.css  
+├── pages/  
+│   ├── admin.html  
+│   └── signin.html  
+├── index.html  
+└── README.md  
 
 ## Validation and Accessibility
 
