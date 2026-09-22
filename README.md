@@ -1,7 +1,7 @@
 # RecipeBox
 > Simple recipes for everyday cooking.
 
-**Author:** delonzow | **Course/Project:** Lab-Bravo | **Version:** 1.0 | **Date:** 2026-09-21
+**Author:** delonzow | **Course/Project:** Dev-Bravo | **Version:** 1.0 | **Date:** 2026-09-21
 
 ## User Story
 
